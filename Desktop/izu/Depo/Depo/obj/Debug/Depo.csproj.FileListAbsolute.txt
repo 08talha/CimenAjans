@@ -1,0 +1,58 @@
+c:\users\can\documents\visual studio 2015\Projects\Depo\Depo\bin\Debug\Depo.exe.config
+c:\users\can\documents\visual studio 2015\Projects\Depo\Depo\obj\Debug\Depo.csprojResolveAssemblyReference.cache
+c:\users\can\documents\visual studio 2015\Projects\Depo\Depo\obj\Debug\Depo.Form1.resources
+c:\users\can\documents\visual studio 2015\Projects\Depo\Depo\obj\Debug\Depo.Form2.resources
+c:\users\can\documents\visual studio 2015\Projects\Depo\Depo\obj\Debug\Depo.Form3.resources
+c:\users\can\documents\visual studio 2015\Projects\Depo\Depo\obj\Debug\Depo.Form4.resources
+c:\users\can\documents\visual studio 2015\Projects\Depo\Depo\obj\Debug\Depo.Form5.resources
+c:\users\can\documents\visual studio 2015\Projects\Depo\Depo\obj\Debug\Depo.Form6.resources
+c:\users\can\documents\visual studio 2015\Projects\Depo\Depo\obj\Debug\Depo.Form7.resources
+c:\users\can\documents\visual studio 2015\Projects\Depo\Depo\obj\Debug\Depo.Properties.Resources.resources
+c:\users\can\documents\visual studio 2015\Projects\Depo\Depo\obj\Debug\Depo.csproj.GenerateResource.Cache
+c:\users\can\documents\visual studio 2015\Projects\Depo\Depo\bin\Debug\Depo.exe
+c:\users\can\documents\visual studio 2015\Projects\Depo\Depo\bin\Debug\Depo.pdb
+c:\users\can\documents\visual studio 2015\Projects\Depo\Depo\obj\Debug\Depo.exe
+c:\users\can\documents\visual studio 2015\Projects\Depo\Depo\obj\Debug\Depo.pdb
+c:\users\can\documents\visual studio 2015\Projects\Depo\Depo\obj\Debug\Depo.Form10.resources
+c:\users\can\documents\visual studio 2015\Projects\Depo\Depo\obj\Debug\Depo.Form11.resources
+c:\users\can\documents\visual studio 2015\Projects\Depo\Depo\obj\Debug\Depo.Form8.resources
+c:\users\can\documents\visual studio 2015\Projects\Depo\Depo\obj\Debug\Depo.Form9.resources
+C:\Users\mn200\OneDrive\Belgeler\talha\Depo\Depo\bin\Debug\Depo.exe.config
+C:\Users\mn200\OneDrive\Belgeler\talha\Depo\Depo\obj\Debug\Depo.exe
+C:\Users\mn200\OneDrive\Belgeler\talha\Depo\Depo\obj\Debug\Depo.pdb
+C:\Users\mn200\OneDrive\Belgeler\talha\Depo\Depo\bin\Debug\Depo.exe
+C:\Users\mn200\OneDrive\Belgeler\talha\Depo\Depo\bin\Debug\Depo.pdb
+C:\Users\mn200\OneDrive\Belgeler\talha\Depo\Depo\obj\Debug\Depo.csprojResolveAssemblyReference.cache
+C:\Users\mn200\OneDrive\Belgeler\talha\Depo\Depo\obj\Debug\Depo.Form1.resources
+C:\Users\mn200\OneDrive\Belgeler\talha\Depo\Depo\obj\Debug\Depo.Form10.resources
+C:\Users\mn200\OneDrive\Belgeler\talha\Depo\Depo\obj\Debug\Depo.Form11.resources
+C:\Users\mn200\OneDrive\Belgeler\talha\Depo\Depo\obj\Debug\Depo.Form2.resources
+C:\Users\mn200\OneDrive\Belgeler\talha\Depo\Depo\obj\Debug\Depo.Form3.resources
+C:\Users\mn200\OneDrive\Belgeler\talha\Depo\Depo\obj\Debug\Depo.Form4.resources
+C:\Users\mn200\OneDrive\Belgeler\talha\Depo\Depo\obj\Debug\Depo.Form5.resources
+C:\Users\mn200\OneDrive\Belgeler\talha\Depo\Depo\obj\Debug\Depo.Form6.resources
+C:\Users\mn200\OneDrive\Belgeler\talha\Depo\Depo\obj\Debug\Depo.Form7.resources
+C:\Users\mn200\OneDrive\Belgeler\talha\Depo\Depo\obj\Debug\Depo.Form8.resources
+C:\Users\mn200\OneDrive\Belgeler\talha\Depo\Depo\obj\Debug\Depo.Form9.resources
+C:\Users\mn200\OneDrive\Belgeler\talha\Depo\Depo\obj\Debug\Depo.Properties.Resources.resources
+C:\Users\mn200\OneDrive\Belgeler\talha\Depo\Depo\obj\Debug\Depo.csproj.GenerateResource.Cache
+C:\Users\TaLha\Desktop\izu\Depo\Depo\bin\Debug\Depo.exe.config
+C:\Users\TaLha\Desktop\izu\Depo\Depo\obj\Debug\Depo.exe
+C:\Users\TaLha\Desktop\izu\Depo\Depo\obj\Debug\Depo.pdb
+C:\Users\TaLha\Desktop\izu\Depo\Depo\bin\Debug\Depo.exe
+C:\Users\TaLha\Desktop\izu\Depo\Depo\bin\Debug\Depo.pdb
+C:\Users\TaLha\Desktop\izu\Depo\Depo\obj\Debug\Depo.csprojResolveAssemblyReference.cache
+C:\Users\TaLha\Desktop\izu\Depo\Depo\obj\Debug\Depo.Form1.resources
+C:\Users\TaLha\Desktop\izu\Depo\Depo\obj\Debug\Depo.Form10.resources
+C:\Users\TaLha\Desktop\izu\Depo\Depo\obj\Debug\Depo.Form11.resources
+C:\Users\TaLha\Desktop\izu\Depo\Depo\obj\Debug\Depo.Form2.resources
+C:\Users\TaLha\Desktop\izu\Depo\Depo\obj\Debug\Depo.Form3.resources
+C:\Users\TaLha\Desktop\izu\Depo\Depo\obj\Debug\Depo.Form4.resources
+C:\Users\TaLha\Desktop\izu\Depo\Depo\obj\Debug\Depo.Form5.resources
+C:\Users\TaLha\Desktop\izu\Depo\Depo\obj\Debug\Depo.Form6.resources
+C:\Users\TaLha\Desktop\izu\Depo\Depo\obj\Debug\Depo.Form7.resources
+C:\Users\TaLha\Desktop\izu\Depo\Depo\obj\Debug\Depo.Form8.resources
+C:\Users\TaLha\Desktop\izu\Depo\Depo\obj\Debug\Depo.Form9.resources
+C:\Users\TaLha\Desktop\izu\Depo\Depo\obj\Debug\Depo.Properties.Resources.resources
+C:\Users\TaLha\Desktop\izu\Depo\Depo\obj\Debug\Depo.csproj.GenerateResource.Cache
+C:\Users\TaLha\Desktop\izu\Depo\Depo\obj\Debug\Depo.Form12.resources
